@@ -1,0 +1,10 @@
+# \u5982\u9700\u90E8\u7F72\u591A\u53F0ID\u751F\u6210\u5668\uFF0C\u5219\u9700\u8981\u6539\u4E0B\u9762\u7684\u914D\u7F6E
+server:
+  port: 8797
+spring:
+  application:
+    name: basic-leaf
+# \u521D\u59CB\u5316\u96EA\u82B1\u7B97\u6CD5\u5DE5\u4F5C\u673A\u5668ID\u3001\u6570\u636E\u4E2D\u5FC3ID
+unique:
+  machineId: 1
+  datacenterId: 1
