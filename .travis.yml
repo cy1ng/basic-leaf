@@ -8,4 +8,4 @@ script:
   - mvn cobertura:cobertura
 
 after_success:
-  - bash <(curl -s https://codecov.io/bash) -t 67f232a6-976f-4caf-b70a-38097367bf43
+  - bash <(curl -s https://codecov.io/bash) -t ea532c93-f8ff-4d13-94e6-126b57751186
